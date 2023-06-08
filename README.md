@@ -15,9 +15,6 @@ Follow the steps below to set up and run the project.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://gitlab.com/K-Oussama/demo.git
-
 2. Navigate to the elk folder:
 
     ```bash
@@ -39,7 +36,7 @@ Follow the steps below to set up and run the project.
 
     ```bash
     cd ..
-    cd backend
+    cd app/backend
     npm install
     npm run start
 
@@ -47,7 +44,7 @@ Follow the steps below to set up and run the project.
 
     ```bash
     cd ..
-    cd frontend
+    cd app/frontend
     npm install
     npm run dev
 
