@@ -1,0 +1,2 @@
+- Edit KAFKA_ADVERTISED_HOST_NAME with your local ip address
+- after you run it create a cluster then a topic named `orders-topic`
